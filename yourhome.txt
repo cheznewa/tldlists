@@ -1,0 +1,6 @@
+salon
+cuisine
+chambre
+soussol
+saledebain
+cave
