@@ -1,6 +1,9 @@
 pal
 pal-m
 pal-n
+niir
+niir-m
+niir-n
 ntsc
 ntsc-a
 ntsc-i
@@ -14,4 +17,4 @@ secam-i
 secam-ii
 secam-iii
 mac
-protosecam
+819
