@@ -1,0 +1,7 @@
+verified
+trusted
+good
+medium
+bad
+unstrusted
+dangerous
